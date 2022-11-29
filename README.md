@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi!I'm Goodflyo!
+-🔭 I’m currently working on frontend...
+
+### Nice to meet u!
+
