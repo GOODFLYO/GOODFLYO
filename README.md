@@ -15,7 +15,7 @@
 
 ### 技术栈
 
-<a href="https://www.javascript.com/"><code><img height="20" src="./images/javascript.png"></code></a> <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
+<a href="https://www.javascript.com/"><code><img height="20" src="./images/javascript.png"></code></a> <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a> <a href="https://nodejs.org/zh-cn/"><code><img height="20" src="./images/nodejs.png"></code></a>
 
 <!-- <a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
