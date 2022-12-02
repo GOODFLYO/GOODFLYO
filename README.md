@@ -1,6 +1,5 @@
 <p align="center"><a href="https://goodflyo.github.io"><img width="80%" alt="Hello, I'm GOODFLYO. I do open source!" src="./images/introduce.png" /></a></p> 
 
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GOODFLYO&layout=compact&langs_count=3) -->
 
 ### 社交主页
@@ -26,5 +25,5 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a> -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GOODFLYO&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOODFLYO&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GOODFLYO&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&hide=stars" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOODFLYO&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
